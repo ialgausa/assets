@@ -1,0 +1,21 @@
+{
+  "name": "TEDDYBANG Token List",
+  "logoURI": "https://raw.githubusercontent.com/ialgausa/assets/master/logo.png",
+  "keywords": ["teddy", "memecoin", "bsc"],
+  "timestamp": "2025-08-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x914a01B16A6FB6AFF7eA66B1D621A0082CDaB5Ee",
+      "name": "TEDDYBANG",
+      "symbol": "TEDDYBANG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ialgausa/assets/master/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
